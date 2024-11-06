@@ -1,0 +1,41 @@
+h1 {
+    color: aqua;
+}
+
+h2 {
+    color: #fe803d;
+}
+
+h3 {
+    color: #c73dfe;
+}
+
+h4 {
+    color: #f43dfe;
+}
+
+h5 {
+    color: #3dfe50;
+}
+.container {
+    background-color: #3d7dfe;
+}
+
+.hedgehog {
+    width: 800px;
+}
+
+.bloom-stella {
+    background-color: #3da7fe;
+    height: 500px;
+    width: 500px;
+}
+.musa {
+    background-color: #3dfe50;
+}
+.leila {
+    background-color: #3dfe50;
+}
+.flora {
+    background-color: bisque;
+}
