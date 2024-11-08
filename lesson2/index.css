@@ -1,0 +1,57 @@
+.save {
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    color: green;
+
+    /* стиль для обводки */
+    border: 8px solid greenyellow;
+}
+.save:hover {
+    background-color: green;
+    border-radius: 50%;
+}
+.reset {
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    color: rebeccapurple;
+
+
+    /* стиль для обводки */
+    border: 8px solid purple; 
+    /* закругление рамки */
+    border-radius: 50%;
+}
+.reset:hover {
+    color: blue;
+    background-color: blueviolet;
+    border-radius: 0%;
+}
+.password {
+    background-color: rgb(0, 208, 255);
+    border-color: brown;
+}
+.password:focus {
+    background-color: black;
+}
+
+/* form {
+    font-style: italic;
+} */
+ label {
+    font-style: italic;
+ }
+ 
+.login {
+    font-style: italic;
+}
+.password {
+    font-style: italic;
+}
+.checkbox {
+    font-style: italic;
+}
+.email {
+    font-style: italic;
+}
